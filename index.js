@@ -1,3 +1,4 @@
 console.log('segundo commit');
 
-console.log('vaaai');
+console.log('mais qualquer coisa');
+console.log('terceira linha');
